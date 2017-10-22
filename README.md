@@ -14,7 +14,7 @@ You are then invited to choose the type of App Service you want to try. Let's st
 <br>
 <br>
 Let's choose the Node.js + Express now. Click on "Create".
-<br>As wrritten previously you can use one of the 4 social networks account to sign in : Microsoft (live), Google +, Facebook, Github. For the demonstration I will use my Live account. 
+<br>You can use one of the 4 social networks account to sign in : Microsoft (live), Google +, Facebook, Github. For the demonstration I will use my Live account. 
 <br>
 <br>
 <a href="https://3.bp.blogspot.com/-eW86PqRopC8/Wep1ZsFAUpI/AAAAAAAATbg/9Uk4NjqJtWoMEwiayGu3s-_ET016kZVgQCLcBGAs/s1600/Try%2BAzure%2BApp%2BService%2B-%2B12%2B-%2Bsigning%2Bwith%2Ba%2Bsocial%2Baccount%2B.png" imageanchor="1" ><img border="0" src="https://3.bp.blogspot.com/-eW86PqRopC8/Wep1ZsFAUpI/AAAAAAAATbg/9Uk4NjqJtWoMEwiayGu3s-_ET016kZVgQCLcBGAs/s1600/Try%2BAzure%2BApp%2BService%2B-%2B12%2B-%2Bsigning%2Bwith%2Ba%2Bsocial%2Baccount%2B.png" class="screenshot-large" /></a>
