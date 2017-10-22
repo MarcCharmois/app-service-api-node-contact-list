@@ -201,7 +201,7 @@ Or if you have Postman installed you can use it either
 <br>
 
 <!--editing Azure App Service online-->
-<h2>3 - Edit this REST API online within Azure Intaegrated Visual Studio Code onnline</h2>
+<h2>3 - Edit this REST API online within Azure Integrated Visual Studio Code online</h2>
 <br>
 <br>
 One of the good point of Node.js compared to compiled language like .Net C# is that you can all edit online once deployed. 
