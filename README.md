@@ -1,5 +1,5 @@
 
-<h2>Creating an Azure Web App for an one hour trial to host this REST API</h2>
+<h2>1 - Create an Azure Web App for an one hour trial to host this REST API</h2>
 So let's deploy a Node.js REST API into this type of Azure App Service, totally free and without any commitment 
 For enjoying this Azure feature, reach the welcome page of <a href="https://azure.microsoft.com/en-in/try/app-service/">"Try Azure App Service"</a>
 <br>
@@ -37,7 +37,7 @@ And an ONE Hour countdown is starting lettting you play with the Azure App Servi
 <br>
 
 <!--deploying to Azure App Service -->
-<h2>Deploying this Node.js API into the Azure App Service</h2>
+<h2>2 - Deploy this Node.js API into the Azure App Service</h2>
 <h3>Setting up your local environment</h3>
 We are going to deploy a REST API based on Node.js in our Azure Web App Service within a few minutes and test it. 
 <br>
@@ -201,7 +201,7 @@ Or if you have Postman installed you can use it either
 <br>
 
 <!--editing Azure App Service online-->
-<h2>Editing online a Node.js API deployed into the Azure App Service</h2>
+<h2>3 - Edit this REST API online within Azure Intaegrated Visual Studio Code onnline</h2>
 <br>
 <br>
 One of the good point of Node.js compared to compiled language like .Net C# is that you can all edit online once deployed. 
@@ -234,14 +234,3 @@ I will publish a post for the Node.js newbie, on how to mount from scratch the A
 <br>
 <br>
 Enjoy folks! 
-
-
-
-
-
-
-
-
-
-
-
