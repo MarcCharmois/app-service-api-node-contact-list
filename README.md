@@ -47,7 +47,7 @@ Prerequisites:
 <li>Having <a href="https://code.visualstudio.com/download">Visual Studio Code</a> installed on your local machine (windows, Linux or Mac)</li>
 <li>Having <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Git</a> installed on your local machine</li>
 </ul>
-Now you have Visual Studio Code and Git properly installed on your machine, download the <a href="https://github.com/MarcCharmois/app-service-api-node-contact-list">Contact List REST API sample</a> on my Github repositery. 
+Now you have Visual Studio Code and Git properly installed on your machine, download this sample.
 <br>
 <br>
 <a href="https://1.bp.blogspot.com/-vJR99ZVoXkY/Werjho0OSAI/AAAAAAAATc8/9puxt1IGaykgYNlmgSTwzwrfViK5eCbugCLcBGAs/s1600/Try%2BAzure%2BApp%2BService%2B-%2B19%2B-%2BDownloading%2BContact%2BList%2BREST%2BAPI%2BSample%2Bon%2BGitHub.png" imageanchor="1" ><img border="0" src="https://1.bp.blogspot.com/-vJR99ZVoXkY/Werjho0OSAI/AAAAAAAATc8/9puxt1IGaykgYNlmgSTwzwrfViK5eCbugCLcBGAs/s1600/Try%2BAzure%2BApp%2BService%2B-%2B19%2B-%2BDownloading%2BContact%2BList%2BREST%2BAPI%2BSample%2Bon%2BGitHub.png" class="screenshot-large" /></a>
