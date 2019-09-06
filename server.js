@@ -25,6 +25,9 @@ app.use(swaggerize({
 app.use('/docs', swaggerUi({
   docs: '/swagger'  
 }));
-
+app.get("/",function(req,res) {
+    res.sendFile("hostingstart.html", { root: __dirname });//last change to display a static welcome page
+    
+});
 server.listen(port, function () { // fifth and final change
 });
