@@ -23,11 +23,11 @@
     "swaggerize-ui": "^1.0.1"
   },
   "devDependencies": {
-    "tape": "^3.0.0",
-    "jshint": "^2.4.1",
-    "istanbul": "~0.2.3",
     "enjoi": "~0.1.16",
-    "supertest": "~0.13.0"
+    "istanbul": "~0.2.3",
+    "jshint": "^2.10.2",
+    "supertest": "~0.13.0",
+    "tape": "^3.0.0"
   },
   "scripts": {
     "test": "tape test/*.js",
